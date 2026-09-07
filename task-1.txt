@@ -1,0 +1,78 @@
+What to build
+Objective
+
+Build strong fundamentals in iteration using for, range(), strings, lists, tuples, sets, and dictionaries.
+
+Questions
+
+Write a program to print numbers from 1 to 100 using a for loop.
+
+Print all even numbers from 1 to 100.
+
+Print all odd numbers from 1 to 100.
+
+Take an integer n and print its multiplication table from 1 to 20.
+
+Calculate the sum of numbers from 1 to n using a loop.
+
+Calculate the factorial of a number without using any built-in factorial function.
+
+Given
+
+numbers = [12, 7, 9, 20, 33, 42, 8, 15]
+
+Print only the numbers divisible by 3.
+
+Given
+
+languages = ["Python", "Java", "C++", "JavaScript", "Go"]
+
+Print every language along with its length.
+
+Iterate through
+
+student = {
+
+"name": "Rahul",
+
+"age": 22,
+
+"course": "Data Science",
+
+"city": "Bangalore"
+
+}
+
+and print every key and value.
+
+Count how many vowels exist in a user-provided string.
+
+Reverse a string using a for loop without using [::-1] or reversed().
+
+Find the largest number from a list without using max().
+
+Submission Guidelines
+
+Create a public GitHub repository named
+
+super30-python-loop-task-1
+
+Your repository must contain
+
+Python source code for all questions
+
+Proper filenames or clearly separated programs
+
+Comments explaining important logic
+
+README.md explaining the task
+
+Sample input/output wherever applicable
+
+Record a YouTube video explaining your solutions. Do not simply read the code. Explain the logic, execution flow, inputs, outputs, and at least one test case.
+
+Submit
+
+GitHub Repository Link
+
+YouTube Explanation Link
